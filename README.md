@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeaddictayaz
+- 👋 Hi, I’m @CodeAddictAyaz
 - 👀 I’m interested in learning html,css,js $ php
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on small projects
